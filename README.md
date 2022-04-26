@@ -78,3 +78,7 @@ A better alternative tool to `htop/top` is `glances`
 ## How can you check the uptime of a machine ?
 
 ![uptime](images/uptime.png)
+
+## How can you assess the network traffic ?
+
+![network](images/network.png)
