@@ -57,5 +57,9 @@ Use `last` to see all users or `last <user>` for a specific user.
 
 ![users](images/last_login.png)
 
+Use `w <user> to see user's activity.
+
+![activity](images/user_activity.png)
+
 ## What are the different metrics of health and performance of a system ?
 
