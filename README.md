@@ -48,4 +48,10 @@ The log files generated in a Linux environment can typically be classified into 
 
 ![log](images/log.png)
 
-Check this [link](https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/) for to know more.
+Check this [link](https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/) to know more.
+
+## How can you check who where the last connected users, what they did, when they left?
+
+Use `last` to see all users or `last <user>` for a specific user.
+
+![users](images/last_login.png)
