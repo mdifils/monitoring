@@ -47,3 +47,5 @@ The log files generated in a Linux environment can typically be classified into 
 - System Logs
 
 ![log](images/log.png)
+
+Check this [link](https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/) for to know more.
