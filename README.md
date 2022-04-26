@@ -57,9 +57,20 @@ Use `last` to see all users or `last <user>` for a specific user.
 
 ![users](images/last_login.png)
 
-Use `w <user> to see user's activity.
+Use `w <user>` to see user's activity.
 
 ![activity](images/user_activity.png)
 
-## What are the different metrics of health and performance of a system ?
+## What are the different health and performance metrics for linux system ?
 
+Here are the main metrics:
+
+- CPU usage
+- RAM memory
+- SWAP memory
+- DISK utilization
+- Network
+
+A better alternative tool to `htop/top` is `glances`
+
+![glances](images/health_metrics.png)
