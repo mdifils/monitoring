@@ -74,3 +74,7 @@ Here are the main metrics:
 A better alternative tool to `htop/top` is `glances`
 
 ![glances](images/health_metrics.png)
+
+## How can you check the uptime of a machine ?
+
+![uptime](images/uptime.png)
