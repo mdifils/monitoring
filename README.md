@@ -17,6 +17,7 @@ The best way to tackle this question is to answer the following questions:
 Below is a non-exhaustive list of main area to monitor:
 
 - CPU and Memory usage.
+- Disk utilization.
 - Running and active processes.
 - Running and active disk files, network sockets and devices.
 - Network traffic: incoming and outgoing packets (TCP, UDP, IP, ICMP, ...)
@@ -50,8 +51,11 @@ The log files generated in a Linux environment can typically be classified into 
 
 Check this [link](https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/) to know more.
 
-## How can you check who where the last connected users, what they did, when they left?
+## How can you check who where the last connected users, what they did, when they left ?
 
 Use `last` to see all users or `last <user>` for a specific user.
 
 ![users](images/last_login.png)
+
+## What are the different metrics of health and performance of a system ?
+
