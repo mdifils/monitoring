@@ -32,3 +32,18 @@ The built-in `top` command provides a dynaminc real-time view of running system.
 `htop` is an enhanced version of `top` and needs to be installed.
 
 ![htop](images/htop.png)
+
+## What are log files and where can you find them ?
+
+Log files are the records that Linux stores for administrators to keep track and monitor important events about the server, kernel, services, and applications running on it.
+
+Linux provides a centralized repository of log files that can be located under the `/var/log` directory.
+
+The log files generated in a Linux environment can typically be classified into four different categories:
+
+- Application Logs
+- Event Logs
+- Service Logs
+- System Logs
+
+![log](images/log.png)
